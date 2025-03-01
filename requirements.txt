@@ -1,0 +1,7 @@
+ollama==0.4.7
+opencv_contrib_python==4.8.1.78
+opencv_python==4.8.1.78
+opencv_python_headless==4.10.0.84
+PyQt6==6.8.1
+PyQt6_Fluent_Widgets==1.7.5
+PyQt6_sip==13.4.1
